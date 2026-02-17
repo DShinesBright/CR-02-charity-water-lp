@@ -78,15 +78,15 @@ section {
 
 /* Story Section Styles */
 .story {
-  background-color: #8BD1CB; /* Secondary Light Blue */
-  color: #222;
+  background-color: #77a8bb; /* Secondary Light Blue */
+  color: #1a1a1a;
   text-align: center;
   padding: 30px 20px;
 }
 
 /* Add accent color to section headings */
 h2 {
-  color: #2E9DF7; /* Primary blue */
+  color: #003366; /* Primary blue */
   margin-top: 0;
   font-weight: bold;
 }
@@ -94,7 +94,7 @@ h2 {
 /* Call-to-Action Section Styles */
 .call-to-action {
   background-color: #FFC907; /* Primary Yellow */
-  color: #222;
+  color: #1a1a1a;
   text-align: center;
   padding: 30px 20px;
 }
@@ -105,21 +105,21 @@ h2 {
   max-width: 320px;
   border-radius: 10px;
   margin-bottom: 16px;
-  box-shadow: 0 2px 8px rgba(46, 157, 247, 0.10);
+  box-shadow: 0 2px 8px #cbccd1(46, 157, 247, 0.10);
 }
 
 /* Donate Button Styles */
 .donate-button {
   display: inline-block;
   background-color: #bf6c46; /* Green */
-  color: #fff;
+  color: #fff7e1;
   padding: 14px 32px;
   text-decoration: none;
   border-radius: 6px;
   font-weight: bold;
   font-size: 1.1em;
   margin-top: 18px;
-  box-shadow: 0 2px 8px rgba(79, 203, 83, 0.10);
+  box-shadow: 0 2px 8px #cbccd1(79, 203, 83, 0.10);
   transition: background 0.3s, transform 0.2s;
   border: none;
   cursor: pointer;
