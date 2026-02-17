@@ -25,7 +25,7 @@ Fonts:
 
 /* Set up the main font and background color for the whole page */
 body {
-  background-color: #cbccd1; /* Soft light grey for a fresh look */
+  background-color: #F16061; /* Soft light grey for a fresh look */
   font-family: 'Avenir', 'Proxima Nova', Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -112,7 +112,7 @@ h2 {
 .donate-button {
   display: inline-block;
   background-color: #159a48; /* Green */
-  color: #fff7e1;
+  color: #fff;
   padding: 14px 32px;
   text-decoration: none;
   border-radius: 6px;
