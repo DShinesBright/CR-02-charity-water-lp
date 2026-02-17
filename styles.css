@@ -108,6 +108,11 @@ h2 {
   box-shadow: 0 2px 8px #cbccd1(46, 157, 247, 0.10);
 }
 
+/* Center the Impact Story section heading */
+.impact-story h2 {
+  text-align: center;
+}
+
 /* Donate Button Styles */
 .donate-button {
   display: inline-block;
