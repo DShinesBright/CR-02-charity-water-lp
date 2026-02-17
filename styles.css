@@ -78,7 +78,7 @@ section {
 
 /* Story Section Styles */
 .story {
-  background-color: #ffc907; /* Secondary Light Blue */
+  background-color: #8bd1cb; /* Secondary Light Blue */
   color: #1a1a1a;
   text-align: center;
   padding: 30px 20px;
@@ -86,14 +86,14 @@ section {
 
 /* Add accent color to section headings */
 h2 {
-  color: #159a48; /* Primary blue */
+  color: #ff902a; /* Primary blue */
   margin-top: 0;
   font-weight: bold;
 }
 
 /* Call-to-Action Section Styles */
 .call-to-action {
-  background-color: #8bd1cb; /* Primary Yellow */
+  background-color: #ffc907; /* Primary Yellow */
   color: #1a1a1a;
   text-align: center;
   padding: 30px 20px;
